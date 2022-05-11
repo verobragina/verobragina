@@ -1,6 +1,6 @@
-### 👋 Привет всем, меня зовут Вера!
+### 👋 Hi there, I'm Vera!
 
-### 🔨 Мой стек:
+### 🔨 Tech & Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-e54c21?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -9,14 +9,13 @@
 ![React](https://img.shields.io/badge/-React-141130?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=Redux&logoColor=white)
 
-### ⚙️ Умею пользоваться:
 ![GIT](https://img.shields.io/badge/-Git-3f2c00?style=for-the-badge&logo=GIT&logoColor=f05030)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=1b74ba)
 ![Express](https://img.shields.io/badge/-Express-90c53f?style=for-the-badge&logo=Express)
 ![SASS](https://img.shields.io/badge/-SASS-ce679a?style=for-the-badge&logo=Sass&logoColor=white)
 ![API](https://img.shields.io/badge/-API-141130?style=for-the-badge)
 
-### :trophy: Моя статистика:
+### :trophy: My stats:
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=verobragina&hide=contribs&show_icons=true">
